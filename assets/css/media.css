@@ -1,0 +1,9 @@
+@media (min-width: 320px) and (max-width: 640px) {
+    [class*="col-"] { 
+        width: 100%;
+    }
+
+    .images3 {
+        width: 100%;
+    }
+}
